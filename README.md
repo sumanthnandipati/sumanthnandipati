@@ -16,10 +16,18 @@ I am a Master's student in Computer Science at California State University, San 
 - **Tools:** Git, GitHub, Docker, Jupyter Notebook
 
 ## Featured Projects
-- **AI Chatbot – SWEBOK-Based Question Answering System**
-- **Spark-Based ELT Data Pipeline**
-- **Restaurant Review Analysis using NLP**
-- More projects in progress...
+
+### Job Tracker Platform
+Secure Job Application Tracking Platform built with FastAPI, PostgreSQL, SQLAlchemy, JWT Authentication, and Docker.
+
+###  Real-Time E-commerce Analytics Dashboard
+End-to-end Spark and Databricks pipeline using Delta Lake with real-time KPI dashboards.
+
+### Spark-Based ELT Data Pipeline
+Scalable ELT pipeline using PySpark and Spark SQL for large-scale data processing.
+
+### AI Chatbot
+Question-answering chatbot built using NLP concepts and SWEBOK knowledge base.
 
 ## Currently Working On
 - Improving my GitHub project portfolio
